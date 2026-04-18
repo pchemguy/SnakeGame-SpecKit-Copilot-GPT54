@@ -1,0 +1,3 @@
+- Baseline/classic Snake Game (collect apples).
+- Add extra walls
+- Make apples moving randomly
